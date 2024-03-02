@@ -1,3 +1,6 @@
 [submodule "shellScripting"]
 	path = shellScripting
 	url = https://github.com/rajeevbh/linux.git
+[submodule "Administration"]
+	path = Administration
+	url = https://github.com/rajeevbh/linux.git
