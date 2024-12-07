@@ -1,9 +1,11 @@
--ls
+# Useful commands
+- ls
 - pwd
 - ls -l
 - ls -a
 - cd /
 - cd ~
+- cd..
 - touch filename
 - vi filename
 - cat filename
@@ -15,6 +17,7 @@
 - mkdir -p dcc/techworldwithrb
 - rmdir dcc
 - wc filename
+- wc patients.txt > count.txt
 - rm filename
 - cut -d ',' -f3 filename
 - 
