@@ -1,1 +1,21 @@
-
+-ls
+- pwd
+- ls -l
+- ls -a
+- cd /
+- cd ~
+- touch filename
+- vi filename
+- cat filename
+- head filename
+- tail filename
+- sort filename
+- sort-r filename
+- mkdir dcc
+- mkdir -p dcc/techworldwithrb
+- rmdir dcc
+- wc filename
+- rm filename
+- cut -d ',' -f3 filename
+- 
+- 
