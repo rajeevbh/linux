@@ -20,5 +20,5 @@
 - wc patients.txt > count.txt
 - rm filename
 - cut -d ',' -f3 filename
-- 
+-  sudo systemctl status apache2
 - 
